@@ -1,0 +1,18 @@
+footer{
+    display:flex;
+    align-items: flex-end;
+    background-color: rgb(87, 3, 166);
+    color: white;
+    justify-content: center;
+    padding: 10px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;   
+   
+
+    
+    
+    
+    
+}

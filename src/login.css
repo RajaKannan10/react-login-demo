@@ -1,0 +1,41 @@
+/* This is for desiging the login page */
+
+.login-button{
+    background-color: black;
+  border: none;
+  text-decoration: none;
+  color:white;
+  padding: 15px 32px;
+  text-align: center;
+  
+}
+.form-container {
+    
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-weight: bold;
+    
+    
+  }
+  .picture{
+    padding: 5px;
+    width: 400px;
+
+  }
+  .field-design{
+    padding-bottom: 10px;
+   
+    
+  }
+  .form-color{
+    width:800px;
+    background-color:antiquewhite;
+    height: 100vh
+  }
+  a{
+    color: white;
+  }
+ 
+ 
+  

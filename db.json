@@ -1,0 +1,40 @@
+{
+  "users":[
+      {
+      "id": 1,
+      "first_name": "Raja",
+      "last_name": "Kannan",
+      "email": "raja10@gmail.com",
+      "gender": "Male"
+      
+    }, {
+      "id": 2,
+      "first_name": "Alan",
+      "last_name": "James",
+      "email": "alan20@gmail.com",
+      "gender": "Male"
+      
+    }, {
+      "id": 3,
+      "first_name": "Meera",
+      "last_name": "Begam",
+      "email": "meera30@gmail.com",
+      "gender": "Female"
+      
+    }, {
+      "id": 4,
+      "first_name": "George",
+      "last_name": "Mathew",
+      "email": "george40@gmail.com",
+      "gender": "Male"
+      
+    },
+  {
+      "id": 5,
+      "first_name": "Lisa",
+      "last_name": "Mathew",
+      "email": "lisa50@gmail.com",
+      "gender": "Female"
+  }
+  ]
+}

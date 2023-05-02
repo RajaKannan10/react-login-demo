@@ -1,0 +1,23 @@
+table {
+   
+    margin: 5rem auto;
+    border-radius: 0rem; 
+    
+  border-collapse: separate;
+  box-shadow: 0 0 0 1px black;
+
+  
+  }
+th {
+    
+    font-weight: bold;
+  }
+ tbody{
+   
+  border: 1px solid black;
+  
+  min-width: 30rem;
+  padding: 1.5rem;
+  line-height: 1.7;
+ } 
+  
